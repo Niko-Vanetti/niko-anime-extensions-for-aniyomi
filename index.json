@@ -153,23 +153,6 @@
     ]
   },
   {
-    "name": "Aniyomi: SoloLatino",
-    "pkg": "eu.kanade.tachiyomi.animeextension.es.sololatino",
-    "apk": "aniyomi-es.sololatino-v14.100.apk",
-    "lang": "es",
-    "code": 100,
-    "version": "14.100",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "SoloLatino",
-        "lang": "es",
-        "id": "2714169179278506077",
-        "baseUrl": "https://sololatino.net"
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: LaMovie",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.lamovie",
     "apk": "aniyomi-es.lamovie-v14.121.apk",
