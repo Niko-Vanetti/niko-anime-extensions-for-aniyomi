@@ -168,5 +168,22 @@
         "baseUrl": "https://lamovie.org"
       }
     ]
+  },
+  {
+    "name": "Aniyomi: LocoPelis",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.locopelis",
+    "apk": "aniyomi-es.locopelis-v14.100.apk",
+    "lang": "es",
+    "code": 100,
+    "version": "14.100",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "LocoPelis",
+        "lang": "es",
+        "id": "1",
+        "baseUrl": "https://www.locopelis.com"
+      }
+    ]
   }
 ]
