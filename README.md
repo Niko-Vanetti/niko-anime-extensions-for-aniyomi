@@ -1,16 +1,16 @@
-# Niko Extensions for Aniyomi
+# Niko Anime Extensions for Aniyomi
 
-Repositorio de extensiones de anime en español para Aniyomi.
+Repositorio de extensiones de anime en espaÃ±ol para Aniyomi.
 
-## Cómo añadirlo
+## CÃ³mo aÃ±adirlo
 
-En Aniyomi: **Más → Ajustes → Navegar → Repositorios de extensiones de anime → Añadir** y pega:
+En Aniyomi: **MÃ¡s â†’ Ajustes â†’ Navegar â†’ Repositorios de extensiones de anime â†’ AÃ±adir** y pega:
 
 ```
-https://raw.githubusercontent.com/Niko-Vanetti/niko-extensions-for-aniyomi/main/index.min.json
+https://raw.githubusercontent.com/Niko-Vanetti/niko-anime-extensions-for-aniyomi/main/index.min.json
 ```
 
-Después abre la pestaña **Extensiones** e instala las que quieras. Al instalar, Aniyomi pedirá confiar en el autor.
+DespuÃ©s abre la pestaÃ±a **Extensiones** e instala las que quieras. Al instalar, Aniyomi pedirÃ¡ confiar en el autor.
 
 ## Extensiones
 
@@ -18,6 +18,6 @@ LatAnime, LegionAnime, MetroSeries, MhdFlix, TVAnime, AnimeFenix.vip, GnulaHD, A
 
 ## Notas
 
-- Los APK están firmados con una clave de depuración; la huella está en `repo.json`.
-- El código fuente se mantiene en un repositorio privado.
-- Proyecto personal sin afiliación con los sitios que consultan las extensiones.
+- Los APK estÃ¡n firmados con una clave de depuraciÃ³n; la huella estÃ¡ en `repo.json`.
+- El cÃ³digo fuente se mantiene en un repositorio privado.
+- Proyecto personal sin afiliaciÃ³n con los sitios que consultan las extensiones.
