@@ -121,22 +121,16 @@
   {
     "name": "Aniyomi: AnimeAv1",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeav1",
-    "apk": "aniyomi-es.animeav1-v14.101.apk",
+    "apk": "aniyomi-es.animeav1-v14.102.apk",
     "lang": "es",
-    "code": 101,
-    "version": "14.101",
+    "code": 102,
+    "version": "14.102",
     "nsfw": 0,
     "sources": [
       {
-        "name": "AnimeAV1 (Es)",
+        "name": "AnimeAV1",
         "lang": "es",
         "id": "2078997964552058731",
-        "baseUrl": "https://animeav1.com"
-      },
-      {
-        "name": "AnimeAV1 (Sub)",
-        "lang": "es",
-        "id": "8505676404074015859",
         "baseUrl": "https://animeav1.com"
       }
     ]
